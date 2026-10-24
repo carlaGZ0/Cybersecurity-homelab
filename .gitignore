@@ -1,0 +1,7 @@
+*.vdi
+*.vdmk
+*.ova
+*.iso
+*.env
+*.key
+*.pem
