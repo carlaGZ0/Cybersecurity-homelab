@@ -90,7 +90,7 @@ This is an isolated educational lab. All attacks are run only against machines I
 
 ## About me
 
-Your Name, student of Higher Vocational Training in Network Systems Administration (ASIR), interested in defensive security and SOC roles.
+Carla Gómez, student of Higher Vocational Training in Network Systems Administration (ASIR), interested in defensive security and SOC roles.
 
 [LinkedIn](https://www.linkedin.com/in/your-profile) · your.email@example.com
 
